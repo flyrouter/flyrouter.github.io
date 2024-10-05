@@ -9,4 +9,4 @@
 
 ### 💻 List of resource links
 
-- https://flyrouter.github.io/research_dash
+- [https://flyrouter.github.io/research_dash](https://flyrouter.github.io/research_dash)
