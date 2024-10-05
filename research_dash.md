@@ -25,7 +25,7 @@
 |             |                      |             |            |               |            |           |
 | CMCC        | AW1C-360 / AW1CXY00  | HI3516EV200 | SC3335     | single, n-std | ready      | 64        |
 |             |                      |             |            |               |            |           |
-| EnZhi       | S37                  | T31L        | IMX307     | single, 38x38 | ready      |           |
+| EnZhi       | S37-C04F-1           | T31L        | IMX307     | single, 38x38 | ready      |           |
 |             |                      |             |            |               |            |           |
 | Vatilon     | HS H8D               | SSC377      | GC4653     | single, 38x38 | ready      |           |
 | Vatilon     | HS H53  or P12H      | SSC378DE    | IMX415     | single, 38x38 | ready      |           |
