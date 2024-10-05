@@ -14,7 +14,7 @@
 | Anjoy       | MC800S-v3            | SSC338Q     | IMX415     | dual, 38x38   | ready      | 215       |
 | Anjoy       | YM200J2              | MSC313E     |            | single, 38x38 |            |           |
 | Anjoy       | MC200J6              | SSC325      |            | single, 38x38 |            |           |
-| Anjoy       | MC-A35               | SSC335      |            | single, 38x38 |            | 63        |
+| Anjoy       | MC-A35               | SSC335      | SC2336     | single, 38x38 |            | 63        |
 | Anjoy       | MS-J10               | SSC335      |            | single, 38x38 | ready      |           |
 | Anjoy       | MC-F40               | SSC337      |            | single, 38x38 |            |           |
 | Anjoy       | MC-L12               |             |            | single, 38x38 |            |           |
