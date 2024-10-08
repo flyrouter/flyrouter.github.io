@@ -30,7 +30,7 @@
 | Vatilon     | HS H8D               | SSC377      | GC4653     | single, 38x38 | ready      |           |
 | Vatilon     | HS H53  or P12H      | SSC378DE    | IMX415     | single, 38x38 | ready      |           |
 |             |                      |             |            |               |            |           |
-| XiongMai    | G4                   |             |            | single, 38x38 |            |           |
+| XiongMai    | G4                   | GK7205V210  | SC223A     | single, 38x38 |            | 65        |
 | XiongMai    | G4F                  |             |            | single, 38x38 |            |           |
 | XiongMai    | G4F-A                |             |            | single, 38x38 |            |           |
 | XiongMai    | G6S                  |             |            | single, 38x38 |            |           |
