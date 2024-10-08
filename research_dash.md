@@ -23,6 +23,8 @@
 | Anjoy       | ?-J30                | SSC377      | SC450AI or OS03A10| single, 38x38 |     |           |
 | Anjoy       | MC-A42P-V1.1         | SSC377      | SC4336P    |               |            |           |
 |             |                      |             |            |               |            |           |
+| CamHi       |                      | GK7205V200  | IMX307     | single, 38x38 |            | 66        |
+|             |                      |             |            |               |            |           |
 | CMCC        | AW1C-360 / AW1CXY00  | HI3516EV200 | SC3335     | single, n-std | ready      | 64        |
 |             |                      |             |            |               |            |           |
 | EnZhi       | S37-C04F-1           | T31L        | IMX307     | single, 38x38 | ready      |           |
