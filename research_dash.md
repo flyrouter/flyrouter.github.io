@@ -19,7 +19,7 @@
 | Anjoy       | MC-F40               | SSC337      |            | single, 38x38 |            |           |
 | Anjoy       | MC-L12               |             |            | single, 38x38 |            |           |
 | Anjoy       | YM500L8              |             |            | single, 38x38 |            |           |
-| Anjoy       | YM-J10D              |             |            | single, 38x38 |            |           |
+| Anjoy       | YM-J10D              | SSC335      | IMX307     | single, 38x38 | ready      | [67](http://root:123456@172.19.32.67) |
 | Anjoy       | ?-J30                | SSC377      | SC450AI or OS03A10| single, 38x38 |     |           |
 | Anjoy       | MC-A42P-V1.1         | SSC377      | SC4336P    |               |            |           |
 |             |                      |             |            |               |            |           |
